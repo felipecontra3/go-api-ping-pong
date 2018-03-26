@@ -1,0 +1,6 @@
+.idea/
+.vscode/
+.env*
+docs/site
+debug
+dynamo
